@@ -1,1 +1,1 @@
-C# Windows Form ile Bilgi yarışması yapmaya çalıştım daha sonrasında geliştirerek daha güzel bir uygulama getirmeye çalışacağım
+I tried to make a quiz with C# Windows Form, then I will try to develop a better application by developing it.
